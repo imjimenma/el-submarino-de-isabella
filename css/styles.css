@@ -4,21 +4,21 @@ background-image: linear-gradient(#B1D0E0, #1A374D);
 font-family: 'Merriweather', sans-serif;
 text-align: center;
 margin: 0;
-padding-left: 50px;
-padding-right: 50px;
+padding-left: 15%;
+padding-right: 15%;
+width: 300;
 z-index: 1;
 }
 
 div{
     align-items: center;
     display: inline-block;
-    width: 600px;
 }
 
 footer {
     color: white;
     font-family:'Merriweather', serif;
-    font-size: small;
+    font-size: medium;
     
 
 }
@@ -35,6 +35,7 @@ h6 {
 
 p {
     color: whitesmoke;
+    font-size: smaller;
 }
 
 .bon-voyage {
