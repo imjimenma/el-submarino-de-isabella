@@ -1,0 +1,43 @@
+body {
+color: black;
+background-image: linear-gradient(#B1D0E0, #1A374D);
+font-family: 'Merriweather', sans-serif;
+text-align: center;
+margin: 0;
+z-index: 1;
+}
+
+div{
+    align-items: center;
+    display: inline-block;
+    width: 600px;
+}
+
+footer {
+    position: relative;
+    bottom: 250px;
+    font-family: 'Sacramento', sans-serif;
+    font-size: x-large;
+    color: white;
+
+}
+
+h1{
+    color:#1A374D;
+}
+
+p {
+    color: whitesmoke;
+}
+
+.bubbles {
+    position: relative;
+    top: 150px;
+    width: 50px;
+}
+
+.submarine {
+    width: 200px;
+    padding-top: 247px;
+    padding-bottom: 247px;
+}
