@@ -4,6 +4,8 @@ background-image: linear-gradient(#B1D0E0, #1A374D);
 font-family: 'Merriweather', sans-serif;
 text-align: center;
 margin: 0;
+padding-left: 50px;
+padding-right: 50px;
 z-index: 1;
 }
 
@@ -14,20 +16,33 @@ div{
 }
 
 footer {
-    position: relative;
-    bottom: 250px;
-    font-family: 'Sacramento', sans-serif;
-    font-size: x-large;
     color: white;
+    font-family:'Merriweather', serif;
+    font-size: small;
+    
 
 }
 
 h1{
     color:#1A374D;
+    margin-bottom: 0;
+}
+
+h6 {
+    margin-top: 0;
+    color: #1A374D;
 }
 
 p {
     color: whitesmoke;
+}
+
+.bon-voyage {
+    position: relative;
+    bottom: 250px;
+    font-family: 'Sacramento', sans-serif;
+    font-size: x-large;
+    color: white;
 }
 
 .bubbles {
