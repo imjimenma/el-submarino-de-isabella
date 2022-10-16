@@ -1,0 +1,60 @@
+body {
+color: black;
+background-image: linear-gradient(#B1D0E0, #1A374D);
+font-family: 'Merriweather', sans-serif;
+text-align: center;
+margin: 0;
+padding-left: 15%;
+padding-right: 15%;
+width: 300;
+z-index: 1;
+}
+
+div{
+    align-items: center;
+    display: inline-block;
+}
+
+footer {
+    color: white;
+    font-family:'Merriweather', serif;
+    font-size: medium;
+    
+
+}
+
+h1{
+    color:#1A374D;
+    margin-bottom: 0;
+}
+
+h6 {
+    margin-top: 0;
+    color: #1A374D;
+}
+
+p {
+    color: whitesmoke;
+    font-size: smaller;
+    text-align: center;
+}
+
+.bon-voyage {
+    position: relative;
+    bottom: 250px;
+    font-family: 'Sacramento', sans-serif;
+    font-size: x-large;
+    color: white;
+}
+
+.bubbles {
+    position: relative;
+    top: 150px;
+    width: 50px;
+}
+
+.submarine {
+    width: 200px;
+    padding-top: 247px;
+    padding-bottom: 247px;
+}
